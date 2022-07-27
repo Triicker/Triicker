@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![Bassalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Triicker&show_icons=true&theme=radical)
+![Bassalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Triicker&show_icons=true&theme=dracula)
 
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
