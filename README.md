@@ -1,10 +1,10 @@
-Salve!! ☀️☀️
+Hey. What’s good? I´m Fullstack Developer!! ☀️☀️
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-bassalo-46aa67207/)
 
 ![Bassalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Triicker&show_icons=true&theme=dracula)
 
-Principais Tecnologias do dia a dia.
+My main technologies.
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
