@@ -31,28 +31,15 @@ Estatísticas & Atividade
 - Pull Requests criados: **<!--PR_COUNT-->**
 - Commits públicos (estimativa): **<!--COMMIT_COUNT-->**
 
-Widgets públicos
-- GitHub summary:
+
+  
   ![Bassalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Triicker&show_icons=true&theme=radical)
-- Top langs:
+
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Triicker&layout=compact&theme=radical)
-- Activity graph (contribuição diária):
+  
   ![activity graph](https://activity-graph.herokuapp.com/graph?username=Triicker&theme=react-dark)
-- Streak (semanas/dias):
+  
   ![streak](https://github-readme-streak-stats.herokuapp.com/?user=Triicker&theme=radical)
-
-Observações sobre contadores (PRs / commits)
--------------------------------------------
-- Widgets públicos (como github-readme-stats e activity-graph) mostram informações públicas disponíveis; nem todas as ações (commits privados, PRs em forks privados ou commits em repositórios privados) aparecem.
-- O "total de commits" por widget pode não incorporar todos os repositórios se o widget é por repo.
-- Para ter contadores mais fiéis ao que você quer exibir, incluí um GitHub Action que consulta a GitHub Search API e atualiza automaticamente os marcadores <!--PR_COUNT--> e <!--COMMIT_COUNT--> no README. Ele busca PRs e commits públicos do usuário e faz a substituição.
-
-Como ativar o contador real (automático)
-----------------------------------------
-1. Coloque os arquivos `.github/workflows/update-stats.yml` e `scripts/update_stats.js` no repo (estão abaixo).
-2. O workflow roda diariamente e em push na main. Ele usa o token `GITHUB_TOKEN` existente.
-3. O script atualiza o README substituindo `<!--PR_COUNT-->` e `<!--COMMIT_COUNT-->`.
-4. Atenção: GitHub Search API tem limites e retorna no máximo 1000 resultados por busca (se você tiver >1000 PRs ou commits públicos, o número será truncado). Além disso, busca por commits exige um Accept especial (o script usa isso).
 
 Contribuição
 -----------
