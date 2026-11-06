@@ -49,6 +49,7 @@ Contato
 -------
 - LinkedIn: https://www.linkedin.com/in/gabriel-bassalo-46aa67207/
 - GitHub: https://github.com/Triicker
+- Portifólio: https://bassalodev.com.br/
 
 Licença
 -------
